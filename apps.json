@@ -1,0 +1,24 @@
+{
+  "name": "Farol",
+  "subtitle": "Source de sideload do Farol (GTD pessoal)",
+  "iconURL": "https://gtd-leobons-dev.github.io/farol-releases/icon.png",
+  "website": "https://github.com/gtd-leobons-dev/farol-releases",
+  "apps": [
+    {
+      "name": "Farol",
+      "bundleIdentifier": "com.aleobons.farol.farol",
+      "developerName": "aleobons",
+      "subtitle": "GTD pessoal, offline-first",
+      "localizedDescription": "Farol conduz ativamente o processo GTD — captura, clarificação, organização, revisão e execução — 100% offline.",
+      "iconURL": "https://gtd-leobons-dev.github.io/farol-releases/icon.png",
+      "category": "lifestyle",
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "O Farol usa a câmera pra você capturar uma foto direto na Inbox."
+        }
+      }
+    }
+  ]
+}
