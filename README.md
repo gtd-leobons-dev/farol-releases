@@ -12,3 +12,4 @@ Repositório público dedicado porque o repo principal ([gtd-leobons-dev/gtd](ht
 Adicione esta URL como Source: `https://gtd-leobons-dev.github.io/farol-releases/apps.json`
 
 Detalhes: [specs/008-altstore-source/](https://github.com/gtd-leobons-dev/gtd/tree/master/specs/008-altstore-source) no repo principal.
+debug Fri Sep  4 22:07:15 UTC 2026
