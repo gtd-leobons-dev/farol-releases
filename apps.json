@@ -12,7 +12,16 @@
       "localizedDescription": "Farol conduz ativamente o processo GTD — captura, clarificação, organização, revisão e execução — 100% offline.",
       "iconURL": "https://gtd-leobons-dev.github.io/farol-releases/icon.png",
       "category": "lifestyle",
-      "versions": [],
+      "versions": [
+        {
+          "version": "1.1.0",
+          "buildVersion": "16",
+          "date": "2026-09-04",
+          "downloadURL": "https://github.com/gtd-leobons-dev/farol-releases/releases/download/v1.1.0/farol.ipa",
+          "size": 10803994,
+          "localizedDescription": "### Features\n* **altstore-source:** automação de release via release-please ([#249](https://github.com/gtd-leobons-dev/gtd/issues/249)) ([24e8238](https://github.com/gtd-leobons-dev/gtd/commit/24e823866583f8eab274f2d8d37f00f5b1bc4a95))\n* **altstore-source:** publica Source via Codemagic automático ([#251](https://github.com/gtd-leobons-dev/gtd/issues/251)) ([8dbf878](https://github.com/gtd-leobons-dev/gtd/commit/8dbf87886253c113ea27240983a2d6f81aff3b32)), closes [#242](https://github.com/gtd-leobons-dev/gtd/issues/242)\n* aplica tokens de cor/tipografia do design system Modernist ([#20](https://github.com/gtd-leobons-dev/gtd/issues/20), [#21](https://github.com/gtd-leobons-dev/gtd/issues/21)) ([#24](https://github.com/gtd-leobons-dev/gtd/issues/24)) ([ca4e74d](https://github.com/gtd-leobons-dev/gtd/commit/ca4e74d3a43b710eaaf75345852184faf0862cea))\n* Clarificação/Processamento (spec 003, issue [#3](https://github.com/gtd-leobons-dev/gtd/issues/3)) ([#134](https://github.com/gtd-leobons-dev/gtd/issues/134)) ([1e4521a](https://github.com/gtd-leobons-dev/gtd/commit/1e4521afa49c1147d7d08dfa0fbd470fd8aece82))\n* módulo captura/inbox (spec 002, [#27](https://github.com/gtd-leobons-dev/gtd/issues/27)-[#32](https://github.com/gtd-leobons-dev/gtd/issues/32)) ([#35](https://github.com/gtd-leobons-dev/gtd/issues/35)) ([64afbc2](https://github.com/gtd-leobons-dev/gtd/commit/64afbc26f69ce07c6dbb9d538fa65cb7d4129c18))\n* navegação de 5 abas + rotas empilhadas do design system ([#22](https://github.com/gtd-leobons-dev/gtd/issues/22)) ([#25](https://github.com/gtd-leobons-dev/gtd/issues/25)) ([726ae17](https://github.com/gtd-leobons-dev/gtd/commit/726ae173ca6acc345780ead3f1b05b52167c4890))\n* prazo real opcional na Próxima Ação ([#143](https://github.com/gtd-leobons-dev/gtd/issues/143)) ([#184](https://github.com/gtd-leobons-dev/gtd/issues/184)) ([92f57c3](https://github.com/gtd-leobons-dev/gtd/commit/92f57c3b35d0cf372ecc125b63b6073fb42a2064))\n* redesign frequência da Rotina"
+        }
+      ],
       "appPermissions": {
         "entitlements": [],
         "privacy": {
