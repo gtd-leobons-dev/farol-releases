@@ -14,6 +14,14 @@
       "category": "lifestyle",
       "versions": [
         {
+          "version": "1.2.0",
+          "buildVersion": "18",
+          "date": "2026-09-08",
+          "downloadURL": "https://github.com/gtd-leobons-dev/farol-releases/releases/download/v1.2.0/farol.ipa",
+          "size": 11102937,
+          "localizedDescription": "### Features\n* **altstore-source:** fallback manual Bitrise/GitHub Actions ([#243](https://github.com/gtd-leobons-dev/gtd/issues/243)) ([#255](https://github.com/gtd-leobons-dev/gtd/issues/255)) ([b36d3bb](https://github.com/gtd-leobons-dev/gtd/commit/b36d3bb8e20d38c234255b7dc5b69f82dd241032))\n* **organizacao:** módulo Organização completo — spec 010 ([#274](https://github.com/gtd-leobons-dev/gtd/issues/274)-277) ([#278](https://github.com/gtd-leobons-dev/gtd/issues/278)) ([cb8ec11](https://github.com/gtd-leobons-dev/gtd/commit/cb8ec119b25bb698f8c5064a86e89a521b91aacc))\n### Bug Fixes\n* **altstore-source:** buildVersion divergente entre apps.json e binário real ([#254](https://github.com/gtd-leobons-dev/gtd/issues/254)) ([f680579](https://github.com/gtd-leobons-dev/gtd/commit/f680579cc4fb9fed8b7ded3cbb29bb35e28eab65))\n* **altstore-source:** corrige publicação cross-repo no Codemagic (bug-121) ([#252](https://github.com/gtd-leobons-dev/gtd/issues/252)) ([b64e1a2](https://github.com/gtd-leobons-dev/gtd/commit/b64e1a22c6b28d6aec5533e3ba1b0058449c1bf4))"
+        },
+        {
           "version": "1.1.0",
           "buildVersion": "11",
           "date": "2026-09-04",
