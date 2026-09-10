@@ -14,6 +14,14 @@
       "category": "lifestyle",
       "versions": [
         {
+          "version": "1.3.0",
+          "buildVersion": "20",
+          "date": "2026-09-10",
+          "downloadURL": "https://github.com/gtd-leobons-dev/farol-releases/releases/download/v1.3.0/farol.ipa",
+          "size": 11112119,
+          "localizedDescription": "### Features\n* **rotina:** gera Ação automaticamente a partir de Rotina ([#315](https://github.com/gtd-leobons-dev/gtd/issues/315)) ([64737ba](https://github.com/gtd-leobons-dev/gtd/commit/64737ba9137e26038fcee4a82e6c8bc74038eca0))\n### Bug Fixes\n* lote de 32 issues Todo do Project Farol ([#239](https://github.com/gtd-leobons-dev/gtd/issues/239)-293) ([#314](https://github.com/gtd-leobons-dev/gtd/issues/314)) ([bdc298a](https://github.com/gtd-leobons-dev/gtd/commit/bdc298a1b40e69b9b3c0e46825411f90ba9e672b))\n* **organizacao:** lote de 14 issues do Project Farol ([#282](https://github.com/gtd-leobons-dev/gtd/issues/282), [#295](https://github.com/gtd-leobons-dev/gtd/issues/295)-[#308](https://github.com/gtd-leobons-dev/gtd/issues/308)) ([#313](https://github.com/gtd-leobons-dev/gtd/issues/313)) ([6b76d40](https://github.com/gtd-leobons-dev/gtd/commit/6b76d4081d1e0e46eb8348b3776d2db0b2060ee8))\n* **release:** mescla release-please 1.2.0 e republica módulo Organização ([1d7f05e](https://github.com/gtd-leobons-dev/gtd/commit/1d7f05efba812388078e692a5353080da910b6d2))"
+        },
+        {
           "version": "1.2.0",
           "buildVersion": "18",
           "date": "2026-09-08",
