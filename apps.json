@@ -14,6 +14,14 @@
       "category": "lifestyle",
       "versions": [
         {
+          "version": "1.3.1",
+          "buildVersion": "21",
+          "date": "2026-09-15",
+          "downloadURL": "https://github.com/gtd-leobons-dev/farol-releases/releases/download/v1.3.1/farol.ipa",
+          "size": 11117632,
+          "localizedDescription": "### Bug Fixes\n* **organizacao:** 3 bugs de UI/estado + achado de não-reprodução ([#321](https://github.com/gtd-leobons-dev/gtd/issues/321)/[#325](https://github.com/gtd-leobons-dev/gtd/issues/325)/[#326](https://github.com/gtd-leobons-dev/gtd/issues/326)/[#318](https://github.com/gtd-leobons-dev/gtd/issues/318)) ([#355](https://github.com/gtd-leobons-dev/gtd/issues/355)) ([dcc7453](https://github.com/gtd-leobons-dev/gtd/commit/dcc745338f2457d422da1e64be7aea09ccab939d))\n  - #321: Ação gerada por Rotina não pode ser marcada como concluída em lugar nenhum da UI\n  - #325: Concluir uma Ação não oferece \"Desfazer\" — item some da lista sem confirmação\n  - #326: Campo \"Agendado em\" não é salvo se a hora não for preenchida explicitamente (perda silenciosa)\n  - #318: design: review 2026-09-10 — Chip.labelStyle cru derruba fonte Archivo em 5 badges\n* **organizacao:** design system no calendário, divisores de lista e touch targets ([#320](https://github.com/gtd-leobons-dev/gtd/issues/320)/[#322](https://github.com/gtd-leobons-dev/gtd/issues/322)/[#323](https://github.com/gtd-leobons-dev/gtd/issues/323)/[#324](https://github.com/gtd-leobons-dev/gtd/issues/324)) ([#369](https://github.com/gtd-leobons-dev/gtd/issues/369)) ([2766265](https://github.com/gtd-leobons-dev/gtd/commit/2766265ea211da7169b6ba0a9704f6a7b9f9eb03))\n  - #320: Tela Rotinas destoa do design hi-fi — revisão visual necessária\n  - #322: Estado vazio da tela Organizar ainda precisa de polish visual (pós-fix do FAB)\n  - #323: Calendário e Prazos: hoje/selecionado se confundem visualmente e toque em dia vazio não dá feedback\n  - #324: Revisão ampla de design do módulo Organização — auditoria completa de UI\n* **release:** expande issues do lote no CHANGELOG pro AltStore ([#319](https://github.com/gtd-leobons-dev/gtd/issues/319)) ([#370](https://github.com/gtd-leobons-dev/gtd/issues/370)) ([703cb25](https://github.com/gtd-leobons-dev/gtd/commit/703cb2595f77dca93d69010e6f50262217db6d4b))"
+        },
+        {
           "version": "1.3.0",
           "buildVersion": "20",
           "date": "2026-09-10",
